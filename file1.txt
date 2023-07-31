@@ -1,2 +1,2 @@
 Added this file in main branch
-Edited this file to get merge conflict
+Edited this file to get merge conflict in remote repository
